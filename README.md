@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AINERD007
-- 👀 I’m interested in AI and ML
+- 👀 I’m interested in AI and ML, Quantum computing
 - 🌱 I’m currently learning AI, Deep learning, Neuralnetwork and specially NLP
 - 💞️ I’m looking to collaborate on exciting AI projects
 - 📫 reach me https://twitter.com/LinaHuq30
